@@ -1,0 +1,18 @@
+In this project, I have scrapped the laptop details from flipkart website and inferred various information about Laptops,
+like on the website which configuration is majorly present and in that Configuration, pick out top pocket friendly laptop brands with good ratings. 
+This will give the idea of what’s the configuration of most laptops displayed on flipkart. 
+If the configuration is latest then, the user will have all the options with top affordable brands with his/her budget and the user can choose the desired 
+laptop and no need to scroll through all the pages as it takes the laptops from all the pages and shortlists thus saving the time of user and giving information 
+about what’s latest. I have analysed laptops for different use cases as well as visualized.
+
+
+
+Note: If You Run The Webscraping part, you may need to clean your dataset seperately depending on your dataset structutre after values are fetched from webiste.
+Kindly start looking over the Part-1 i.e. 1_Sanket_batch-139_Flipkart_Laptops_Webscraping_Data_Cleaning.ipynb from there Our Data 
+cleaning starts and In the Next Part i.e Part-2 (2_Sanket_batch-139_Flipkart_Laptops_EDA.ipynb), The Exploratory data Analysis is done.
+
+
+
+Instructions:
+	1. Load The Csv files in jupyter first.
+	2. Read the Note at top of Part-1 jupyter file i.e. in 1_Sanket_batch-139_Flipkart_Laptops_Webscraping_Data_Cleaning.ipynb
